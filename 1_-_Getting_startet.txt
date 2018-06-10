@@ -1,5 +1,10 @@
-Other Useful Tools:
-===================
+Getting startet:
+================
+You need a _big_ USB-Key (Stick) for it, that shouldn't be to slow! (Maybe a USB-SSD-Drive ???)
+To create a own Windows Boot CD, you need a second Stick to create it.
+Some tool are no Boot CDs - so you maybe want to copy them on a third Stick.
+
+And then you need YUMI...
 
 YUMI – Multiboot USB Creator
 ----------------------------
