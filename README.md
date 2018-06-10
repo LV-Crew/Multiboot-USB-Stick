@@ -1,22 +1,15 @@
-[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/ScriptTiger)
+# Guide to create a Multiboot-USB-Stick  
+A downloadable multi-page Guide to create a Multiboot-USB-Stick, forked from [ScripTiger's Windows 911](https://github.com/ScriptTiger/Windows-911), but not for emergency rescue, more for IT-Technicians that use Boot CDs on a daily basis and want to have a 'All-in-one Solution' for it.  
+This project is also a follow-up to the old, abandoned [LV-Crew.org_(LVC)_-_Howto_-_Multi-Boot-USB-Stick](https://github.com/LV-Crew/Howto_-_Multi-Boot-USB-Stick).  
 
-# Windows 911!!!  
-Curated list of FREE emergency resources when you find yourself in the inevitable pickle with Windows. **PRs welcome!**
+The Guide lists only FREE emergency & maintanance resources! **PRs welcome!**  
 
 
 # Index:  
-1_-_Utility_Libraries.txt  
-2_-_Must-Have_Disks.txt  
-3_-_Malware_Removal.txt  
-4_-_Other_Useful_Tools.txt  
-
-
-# More About ScriptTiger
-
-If you would like to show your support for ScriptTiger, check out the Patreon page to find out how:  
-https://www.patreon.com/ScriptTiger
-
-For more ScriptTiger scripts and goodies, check out ScriptTiger's GitHub Pages website:  
-https://scripttiger.github.io/
-
-Donate Monero (XMR): 441LBeQpcSbC1kgangHYkW8Tzo8cunWvtVK4M6QYMcAjdkMmfwe8XzDJr1c4kbLLn3NuZKxzpLTVsgFd7Jh28qipR5rXAjx
+- 1_-_Getting_startet.txt  
+- 2_-_All-in-one_CDs.txt  
+- 3_-_Linux_CDs.txt  
+- 4_-_Malware_Removal.txt 
+- 5_-_Other_CDs.txt  
+- 6_-_Tools.txt  
+- 7_-_Make_your_own_Windows_Boot_CD.txt  
