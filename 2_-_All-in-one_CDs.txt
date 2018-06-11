@@ -25,7 +25,7 @@ http://www.hirensbootcd.org/
 
 UBCD Live (Beta!)
 ---------
-UBCD without Parted Magic but with a special UBCD-Linux.
+UBCD without Parted Magic but with a special UBCD-Linux based on Debian.
 More info follow...
 http://www.ultimatebootcd.com/ubcdlive.html
 
