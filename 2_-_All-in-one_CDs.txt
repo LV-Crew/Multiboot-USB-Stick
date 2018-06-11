@@ -6,11 +6,31 @@ UBCD
 UBCD is good for any OS and is a collection of all those floppies people thought they wouldn't need anymore but can still save your butt in a bind, plus a whole lot more. It also currently comes with a freeware version of Parted Magic for all your partitioning needs, but they are working to replace it with their own UBCD distro in the future. With everything from virus scanners to password crackers to data recovery and memory diagnostics, this is definitely a must-have!
 http://www.ultimatebootcd.com/
 
-UBCD4Win (ABANDONED)
---------------------
-Follows...
+System-Rescue-CD
+----------------
+SystemRescueCd is a Linux system rescue disk for administrating or repairing your system and data after a crash. It aims to provide an easy way to carry out admin tasks on your computer, such as creating and editing the hard disk partitions. It comes with a lot of Linux system utilities such as GParted, fsarchiver, filesystem tools and basic tools (editors, midnight commander, network tools). It can be used for both Linux and windows computers, and on desktops as well as servers. The kernel supports all important file systems (ext3/ext4, xfs, btrfs, reiserfs, jfs, vfat, ntfs), as well as network filesystems such as Samba and NFS.
+http://www.system-rescue-cd.org/
 
-Hiren's Boot CD (ABANDONED)
----------------------------
-Follows...
-Have other Tools...
+UBCD4Win (Discontinued!)
+--------
+A boot CD based on UBCD with a BartPE-Windows-Extension.
+More info follow...
+https://web.archive.org/web/20131212224924/http://www.ubcd4win.com/
+
+Hiren's Boot CD (Discontinued!)
+---------------
+Like the UBCD/UBCD4Win, but have other tools...
+More info follow...
+http://www.hirensbootcd.org/
+
+UBCD Live (Beta!)
+---------
+UBCD without Parted Magic but with a special UBCD-Linux.
+More info follow...
+http://www.ultimatebootcd.com/ubcdlive.html
+
+UWBCD (Alpha!)
+-----
+A Boot CD based on the UBCD but with a ReactOS-Extension (Live-CD).
+More info follow...
+https://github.com/UWBCD/UWBCD-REACTOS
